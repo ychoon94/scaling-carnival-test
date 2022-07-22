@@ -1,22 +1,22 @@
 {
-    "ethnicGroup": [{ "name": "Chinese" }, { "name": "Indian" }, { "name": "Malay" }, { "name": "Others" }],
+    "ethnicGroup": [{ "name": "Chinese", "value": "Chinese" }, { "name": "Indian", "value": "Indian" }, { "name": "Malay", "value":"Malay" }, { "name": "Others", "value":"Others" }],
     "genderGroup": [
         { "name": "Male", "value": "Male" },
         { "name": "Female", "value": "Female" },
         { "name": "Other", "value": "" }
     ],
     "age_Group": [
-        { "name": "<13" },
-        { "name": "13-19" },
-        { "name": "20-24" },
-        { "name": "25-29" },
-        { "name": "30-34" },
-        { "name": "35-39" },
-        { "name": "40-44" },
-        { "name": "45-49" },
-        { "name": "50-54" },
-        { "name": "55-59" },
-        { "name": ">59" }
+        { "name": "<13", "value":"<13" },
+        { "name": "13-19", "value":"<13-19" },
+        { "name": "20-24", "value":"20-24" },
+        { "name": "25-29", "value":"25-29" },
+        { "name": "30-34", "value":"30-34" },
+        { "name": "35-39", "value":"35-39" },
+        { "name": "40-44", "value":"40-44" },
+        { "name": "45-49", "value":"45-49" },
+        { "name": "50-54", "value":"50-54" },
+        { "name": "55-59", "value":"55-59" },
+        { "name": ">59", "value":">59" }
     ],
-    "salesChannel": [{ "name": "Online" }, { "name": "Offline" }]
+    "salesChannel": [{ "name": "Online", "value":"Online" }, { "name": "Offline", "value": "Offline" }],
 }
