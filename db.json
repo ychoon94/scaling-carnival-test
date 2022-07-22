@@ -12,7 +12,6 @@
         "valueArr": [
             { "name": "Male", "value": "Male" },
             { "name": "Female", "value": "Female" },
-            { "name": "Other", "value": "" }
         ],
         "title": "Gender"
     },
@@ -30,7 +29,7 @@
             { "name": "55-59", "value": "55-59" },
             { "name": ">59", "value": ">59" }
         ],
-        "title": "Age"
+        "title": "Age group"
     },
     "salesChannel": {
         "valueArr": [
